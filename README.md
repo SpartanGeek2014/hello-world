@@ -1,2 +1,4 @@
 # hello-world
-My first repository on GitHub.
+
+Well Hello there!
+I'm 5-7, fun, and...fun.
